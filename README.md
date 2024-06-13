@@ -1,6 +1,6 @@
-Area Calculator
+Basic Area Calculator
 ==================================
-The Area Calculator is a simple Python application that calculates the area of various shapes: circle, rectangle, triangle, and square. It provides a graphical user interface (GUI) for ease of use.
+The Basic Area Calculator is a simple Python application that calculates the area of various shapes: circle, rectangle, triangle, and square. It provides a graphical user interface (GUI) for ease of use.
 
 Features
 ===========================================================
